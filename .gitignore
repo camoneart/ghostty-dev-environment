@@ -25,5 +25,5 @@ pnpm-debug.log*
 .env.test.local
 .env.production.local
 
-# Implementation logs (local only)
-_docs/templates/
+# issues (local only)
+_docs/issues/
